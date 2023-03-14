@@ -1,6 +1,6 @@
 # Project Inflammation
 
-Some initial data analysis to identify how inflamation changes over time after surgery.
+Initial data analysis to identify how inflamation changes over time after surgery.
 
 ## Participants
 
