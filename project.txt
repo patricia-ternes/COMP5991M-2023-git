@@ -1,5 +1,7 @@
 # Project Inflammation
 
+Initial data analysis to identify how inflamation changes over time after surgery.
+
 ## Participants
 
 Jane: Data Scientist
