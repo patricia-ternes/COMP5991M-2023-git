@@ -1,0 +1,4 @@
+name: inflammation
+dependencies:
+  - python
+  - black
