@@ -1,3 +1,10 @@
-Some initial data analysis to
-identify how inflammation changes
-over time after surgery.
+# Project Inflammation
+
+Some initial data analysis to identify how inflamation changes over time after surgery.
+
+## Participants
+
+Jane: Data Scientist
+Samit: Statistician
+
+Note: We need to define who is responsable for what in this project.
