@@ -4,7 +4,6 @@ Initial data analysis to identify how inflammation changes over time after surge
 
 ## Participants
 
-Jane: Data Scientist
-Samit: Statistician
+- Jane: Data Scientist - is going to work
+- Samit: Statistician - is goint to review
 
-Note: We need to define who is responsible for what in this project.
