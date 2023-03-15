@@ -1,6 +1,6 @@
 # Input Data
 
-The data is available at <www.data.com>.
+The data is available at <www.data.co>.
 
 ## Data Overview
 
